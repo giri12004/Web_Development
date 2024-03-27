@@ -1,0 +1,126 @@
+body {
+   
+    
+  }
+  
+  code {
+    background: #fff;
+    padding: 0.2rem;
+    border-radius: 0.2rem;
+    margin: 0 0.3rem;
+  }
+
+
+
+.text-uppercase{
+  font-size: 40px;
+}
+
+/* .navbar-brand{
+  position: relative;
+  right: 100px;
+} */
+
+.text-uppercase{
+
+  color: lightyellow;
+}
+
+.img1{
+  position:relative;
+  height: 450px;
+  width: 450px;
+  bottom: 327px;
+  right: 60px;
+}
+
+.veg1{
+  position:relative;
+  top: 360px;
+}
+
+.veg2{
+  position:relative;
+  top: 360px;
+}
+
+.img2{
+  position:relative;
+  height: 460px;
+  width: 435px;
+  bottom: 300px;
+  right: 48px;
+  
+  
+
+}
+.img3{
+  position:relative;
+  height: 470px;
+  width: 450px;
+  bottom: 350px;
+  right: 60px;
+  
+}
+
+.hygiene{
+  text-align: center;
+}
+
+.hyg{
+  margin-bottom: 50px;
+}
+
+.img4{
+  
+  border: 5px solid green;
+  
+  
+}
+
+.call{
+  position:relative;
+  top: 70px;
+}
+
+.calll{
+  position: relative;
+  top: 50px;
+}
+
+.link2{
+  position:relative;
+  top: 5px;
+}
+
+.link3{
+  position: relative;
+  bottom: 3px;
+}
+
+.navbar{
+  margin-bottom: 50px;
+}
+
+.one{
+  position: relative;
+width: 500px;
+left: 200px;
+}
+
+.oone{
+  position: relative;
+}
+
+.act:hover{
+border-bottom: 2px solid white;
+
+
+}
+
+#custom-cards{
+  position: relative;
+  bottom: 100px;
+
+}
+

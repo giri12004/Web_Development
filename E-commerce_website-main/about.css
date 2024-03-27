@@ -1,0 +1,124 @@
+code {
+    background: #fff;
+    padding: 0.2rem;
+    border-radius: 0.2rem;
+    margin: 0 0.3rem;
+  }
+
+
+
+.text-uppercase{
+  font-size: 40px;
+  position: relative;
+  left: 550px;
+  color: lightyellow;
+}
+
+.text-uppercase:hover{
+  opacity: 50%;
+  
+}
+
+.navbar-brand{
+  position: relative;
+  right: 100px;
+}
+
+
+
+
+.footer{
+    background-color: white;
+    position:relative;
+    top: 300px;
+    
+}
+
+.content{
+    position: relative;
+    
+    
+}
+
+.about{
+    position:relative;
+    color:white;
+    font-family: system-ui;
+    left: 42%;
+    top: 100px;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    
+    border-radius: 25px;
+    text-align:center;
+    width: 250px;
+    
+}
+
+
+
+.para{
+    position: relative;
+    color:white;
+    top: 200px;
+    font-family:'papyrus',"fantasy";
+    border-bottom: 3px solid white;
+    border-top: 3px solid white;
+    font-size: 20px;
+    text-align: center;
+    width: 900px;
+    height: 300px;
+    left: 325px;
+    padding-top: 50px;
+    
+    
+    
+}
+
+.para:hover{
+    
+    
+    font-size: 21px;
+    font-family:'papyrus',"fantasy";
+    border-left: 3px solid orange;
+    border-right: 3px solid green;
+    border-top: none;
+    border-bottom: none;
+    
+}
+
+.notify{
+  position: relative;
+  color: white;
+  opacity: 50%;
+  border: 1px solid white;
+  width: max-content;
+
+}
+
+.act:hover{
+  border-bottom: 2px solid white;
+  
+  
+  }
+
+.act{
+  
+
+}
+
+  .about:hover{
+   border-top: none;
+   border-bottom: none;
+   border-left: 2px solid orange;
+   border-right: 2px solid green;
+   
+  }
+
+
+ .part1{
+  background-image: url("./pexels-roberto-nickson-2559941.jpg");
+  background-size: cover;
+  height: 750px;
+ }
+
